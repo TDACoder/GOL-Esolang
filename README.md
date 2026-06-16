@@ -14,6 +14,7 @@ A valid .gol source file must contain three strict components:
 
 Create a file named glider.gol:
 
+```text
 S: 5x5
 E: 4
 F:
